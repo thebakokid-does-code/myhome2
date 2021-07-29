@@ -13,5 +13,8 @@ $calendar = new Calendar();
  
 echo $calendar->show();
 ?>
+
+  <?php echo '<a href="/bio.php">Bio</a>'; ?>
+  
   </body>
 </html>
